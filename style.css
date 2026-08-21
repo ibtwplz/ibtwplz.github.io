@@ -2,7 +2,7 @@
   
   /* Color scheme fdcb39 121212 lalala*/
   
-  --textcolor: #f06c8c;
+  --textcolor: #de6280;
   --bgcolor: #f5f4f2;
   --highlight: #e0043b;
 
@@ -11,7 +11,7 @@
 
 @media (prefers-color-scheme: dark) {
   * {
-    --textcolor: #e8cec0;
+    --textcolor: #deb199;
     --bgcolor: #380e19;
     --highlight: #e8cec0;
   }
