@@ -1,10 +1,10 @@
 * { margin: 0; padding: 0; box-sizing: border-box;
   
-  /* Color scheme */
+  /* Color scheme fdcb39 121212 */
   
-  --textcolor: #121212;
-  --bgcolor: #fdcb39;
-  --highlight: #2749c9;
+  --textcolor: #e0043b;
+  --bgcolor: ##fcfcfc;
+  --highlight: #ff42b4;
 
 }
 
