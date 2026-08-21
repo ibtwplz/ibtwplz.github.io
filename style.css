@@ -11,9 +11,9 @@
 
 @media (prefers-color-scheme: dark) {
   * {
-    --textcolor: #dadada;
-    --bgcolor: #141414;
-    --highlight: #ffc400;
+    --textcolor: #e8cec0;
+    --bgcolor: #380e19;
+    --highlight: #e8cec0;
   }
 }
 
